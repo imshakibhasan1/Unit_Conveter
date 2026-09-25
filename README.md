@@ -2,8 +2,16 @@
 
 A lightweight, clean, and fully responsive web application that converts values between **Metric** and **Imperial** units simultaneously across Length, Volume, and Mass.
 
-![Project Preview](/img/image.png)(/img/imageresponsive.png) <!-- Optional: Add a screenshot of your app here -->
-
+Desktop
+<div>
+<img src="/img/image.png" style="width:900px">
+</div>
+<br>
+<br>
+Mobile
+<div>
+<img src="/img/imageresponsive.png" style="width:300px">
+</div>
 ## 🌟 Features
 
 - **Multi-Unit Conversion**: Automatically converts values for:
